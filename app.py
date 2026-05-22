@@ -645,25 +645,7 @@ else:
 
     st.markdown("""
 
-### Features
 
-- Transformer-based sign language recognition
-- Real-time prediction
-- Confidence scoring
-- Sentence generation
-- Speech synthesis
-- Text-to-sign translation
-- CPU optimized inference
-
----
-
-### Technologies
-
-- PyTorch
-- MediaPipe Tasks API
-- Streamlit
-- OpenCV
-- pyttsx3
 
 """)
 
