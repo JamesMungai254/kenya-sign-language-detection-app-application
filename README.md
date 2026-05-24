@@ -237,11 +237,7 @@ The model was optimized for:
 
 # 👨‍💻 Author
 
-## James Mungai
 
-* Data Science & Analytics Graduate
-* Machine Learning Developer
-* Computer Vision Enthusiast
 
 GitHub:
 
